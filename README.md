@@ -4,7 +4,7 @@
 
 ## Mirza Md Tasnim Mukarram , University of Iowa
 
-**GeoInformatics | GeoAI | Machine Learning | Remote Sensing**  
+**GeoInformatics | GeoAI | Machine Learning | Satellite Remote Sensing**  
 **Disaster Risk Reduction & Early Warning Systems**
 
 I am a PhD researcher specializing in geospatial artificial intelligence (GeoAI), 
