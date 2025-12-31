@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_0085.JPG" width="700" alt="GeoAI-based disaster risk and early warning presentation">
+</p>
+
 ## Mirza Md Tasnim Mukarram , University of Iowa
 
 **GeoInformatics | GeoAI | Machine Learning | Remote Sensing**  
