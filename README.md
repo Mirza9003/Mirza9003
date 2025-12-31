@@ -1,12 +1,17 @@
-Hi, I’m Mirza Md Tasnim Mukarram
- I’m interested in Environmental Monitoring & Management using Remote Sensing & Machine Learning 
-- 🌱 I’m currently doing my PhD  at School of Earth, Environment & Sustainabilit, University of IOWA
-- 💞️ I’m looking to collaborate on research works that aligns with my field.
-- 📫 Reach me at: mtasnimmukarram@uiowa.edu
-- 😄 Pronouns: Mirza (He/Him)
-- ⚡ Fun fact: I love driving
+## Mirza Md Tasnim Mukarram
 
-<!---
-Mirza9003/Mirza9003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**GeoInformatics | GeoAI | Machine Learning | Remote Sensing**  
+**Disaster Risk Reduction & Early Warning Systems**
+
+I am a PhD researcher specializing in geospatial artificial intelligence (GeoAI), 
+spatial machine learning, and satellite remote sensing for disaster risk reduction, 
+hazard monitoring, and early warning systems.
+
+- 🎓 PhD Researcher, School of Earth, Environment & Sustainability, University of Iowa  
+- 🛰️ Research focus: GeoAI, spatial ML, Earth observation analytics  
+- 🚨 Applications: flood risk mapping, drought monitoring, early warning systems  
+- 🧠 Methods: machine learning, deep learning, geospatial modeling  
+- 🤝 Open to collaboration on GeoAI, DRR, and decision-support research  
+- 📫 Contact: mtasnimmukarram@uiowa.edu  
+
+🌐 Personal website: coming soon (GitHub Pages)
