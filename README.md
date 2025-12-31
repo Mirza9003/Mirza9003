@@ -18,4 +18,5 @@ hazard monitoring, and early warning systems.
 - 🤝 Open to collaboration on GeoAI, DRR, and decision-support research  
 - 📫 Contact: mtasnimmukarram@uiowa.edu  
 
-🌐 Personal website: coming soon (GitHub Pages)
+🌐 Personal website: https://mirza9003.github.io
+
