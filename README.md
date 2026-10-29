@@ -7,7 +7,7 @@
 **Hydroclimatic Extremes | Machine Learning | Satellite Remote Sensing**  
 **Disaster Risk Reduction & Early Warning Systems**
 
-I am a PhD researcher specializing in geospatial artificial intelligence (GeoAI), 
+I am a researcher specializing in geospatial artificial intelligence (GeoAI), 
 spatial machine learning, and satellite remote sensing for disaster risk reduction, 
 hazard monitoring, and early warning systems.
 
