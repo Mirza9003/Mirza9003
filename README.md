@@ -12,6 +12,7 @@ spatial machine learning, and satellite remote sensing for disaster risk reducti
 hazard monitoring, and early warning systems.
 
  🎓 Affiliation: a. Department of Civil & Environmental Engineering b. Informatics, Department of Computer Science
+ 
  🛰️ Research focus: GeoAI, spatial ML, Earth observation analytics  
  🚨 Applications: flood risk mapping, drought monitoring, early warning systems  
  🧠 Methods: machine learning, deep learning, geospatial modeling  
