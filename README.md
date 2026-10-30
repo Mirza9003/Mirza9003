@@ -7,7 +7,9 @@
 **Hydroclimatic Extremes | Machine Learning | Satellite Remote Sensing**  
 **Disaster Risk Reduction & Early Warning Systems**
 
- 🎓 Affiliation: a. Department of Civil & Environmental Engineering b. Informatics, Department of Computer Science
+ 🎓 Affiliation: 
+ a. IIHR—Hydroscience and Engineering, Department of Civil & Environmental Engineering 
+ b. Informatics, Department of Computer Science
  
  🛰️ Research focus: GeoAI, spatial ML, Earth observation analytics  
  🚨 Applications: flood risk mapping, drought monitoring, early warning systems  
